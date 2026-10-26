@@ -23,7 +23,37 @@ I hold an **MSc in Artificial Intelligence & Data Science (Distinction)**. My pr
 - **Applied statistics:** Longitudinal analysis, causal inference methods, validation and interpreting results under uncertainty.
 - **Data workflows:** Data integration, quality checks, reusable analysis pipelines, reporting and visualisation.
 
-## Professional work beyond GitHub
+## Professional Research Experience
+
+### Newcastle University | Research Assistant – Data Science
+**NortHFutures | Healthcare AI & Predictive Modelling**
+
+Worked on applied machine learning and statistical research involving complex NHS datasets, focusing on predictive modelling, longitudinal analysis, model evaluation and explainability.
+
+**Maternal Mental Health – Longitudinal Prediction and NLP**
+- Developed Python-based analytical workflows for a dataset comprising 4,517 patients, 358,871 clinical visit records and 829 structured and text-derived features.
+- Addressed substantial missingness, duplicate observations and temporal inconsistencies, including developing a 49-day alignment approach for longitudinal clinical measures.
+- Trained and evaluated Logistic Regression, LightGBM, XGBoost and stacked models, incorporating calibration, precision-recall analysis, threshold selection and SHAP explainability.
+- Investigated safeguarding-related indicators using structured records and clinical text, with attention to clinical interpretation, uncertainty and data governance.
+
+**Post-operative Sepsis – Predictive Modelling and Causal Inference**
+- Worked with a cohort of 330,847 surgical admissions and millions of associated clinical observations covering vital signs, laboratory results, medications and clinical interventions.
+- Developed data transformation, feature engineering and validation workflows for longitudinal clinical records.
+- Evaluated predictive models for post-operative sepsis outcomes, with attention to temporal leakage, calibration and clinical relevance.
+- Applied causal inference methods, including propensity score approaches, inverse probability weighting, TMLE and doubly robust learning, to investigate treatment effects and intervention-related questions.
+
+### Newcastle University | Social Data Science Research
+
+**Postgraduate Data Skills Mapping and Analytics**
+- Developed Python-based workflows to process, classify and analyse postgraduate curriculum information across faculties and institutions.
+- Applied structured classification approaches, including AI-assisted analysis, to identify programming, quantitative methods, data engineering and AI/ML skills provision.
+- Built a Flask-based data catalogue to make analytical results accessible and support curriculum review and stakeholder discussions.
+
+### Research Standards and Responsible AI
+
+My healthcare research experience has involved working within established NHS research governance arrangements, maintaining reproducible analytical workflows, documenting data limitations and communicating findings to multidisciplinary teams.
+
+*The research described above was undertaken within restricted institutional environments. Confidential datasets, employer-owned code and unpublished research materials are not reproduced in this public portfolio.*
 
 In healthcare research, I have worked with complex longitudinal clinical records, model validation, missing-data challenges, predictive modelling and causal methods. I have also delivered operational analysis and reporting in NHS and logistics environments, translating findings for technical and non-technical stakeholders.
 
