@@ -25,7 +25,7 @@ I hold an **MSc in Artificial Intelligence & Data Science (Distinction)**. My pr
 
 ## Professional Research Experience
 
-### Newcastle University | Research Assistant – Data Science
+### Newcastle University | Data Scientist
 **NortHFutures | Healthcare AI & Predictive Modelling**
 
 Worked on applied machine learning and statistical research involving complex NHS datasets, focusing on predictive modelling, longitudinal analysis, model evaluation and explainability.
